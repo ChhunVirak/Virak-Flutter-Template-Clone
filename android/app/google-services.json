@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "77662416014",
+    "project_id": "virak-z1fsc",
+    "storage_bucket": "virak-z1fsc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77662416014:android:67613b8919d3ff36956ddf",
+        "android_client_info": {
+          "package_name": "com.virak.z1fsc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77662416014-5tbqum72v8emnifagh7p9ak65qvebc1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXZWV8pJbST67gBETKL_M3dfkbjRdz6yU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77662416014-5tbqum72v8emnifagh7p9ak65qvebc1b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "77662416014-e9cbf9vk2qpe3gb5bqfdh4t6rtef6qn8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.virak.z1fsc"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
